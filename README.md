@@ -5,7 +5,7 @@ This is the official repo for IDD-VPR, a dataset for unstructured driving settin
 ## Setup
 ### Conda
 ```bash
-conda create -n seqnet numpy pytorch=1.8.0 torchvision tqdm scikit-learn faiss tensorboardx h5py -c pytorch -c conda-forge
+conda create -n idd-vpr numpy pytorch=1.8.0 torchvision tqdm scikit-learn faiss tensorboardx h5py -c pytorch -c conda-forge
 ```
 
 ### Train
